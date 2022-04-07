@@ -58,7 +58,7 @@ Restricción: sólo usar OR, NOT y el mecanismo de cortocircuito.
 
 variable_01 = False
 variable_02 = True
-variable_03 = 80
+variable_03 = 80 
 variable_04 = "90"
 variable_05 = 100
 
